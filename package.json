@@ -1,0 +1,14 @@
+{
+  "name": "next-cookie-auth",
+  "version": "1.0.0",
+  "description": "Cookie authentication with Next.js",
+  "main": "server.js",
+  "repository": "https://github.com/anis-meliti/next-auth-cookies.git",
+  "author": "Anis Mell",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
